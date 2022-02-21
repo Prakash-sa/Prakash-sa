@@ -38,15 +38,21 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
 
 <a href="https://github.com/Prakash-sa/Prakash-sa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prakash-sa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prakash's GitHub Stats" />
 </a>
 
+
+## ⏱ Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
+
 <a href="https://github.com/Prakash-sa/Prakash-sa">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash-sa" alt="Prakash's GitHub Stats" />
 </a>
+
+
+## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
 
 <a href="https://github.com/Prakash-sa/Prakash-sa">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Prakash-sa" alt="Prakash's GitHub Stats" />
