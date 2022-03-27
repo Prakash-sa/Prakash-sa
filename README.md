@@ -52,12 +52,6 @@ Here are some ideas to get you started:
 </a>
 
 
-## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
-
-<a href="https://github.com/Prakash-sa/Prakash-sa">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Prakash-sa" alt="Prakash's GitHub Stats" />
-</a>
-
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
