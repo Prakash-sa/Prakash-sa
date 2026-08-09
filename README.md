@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Prakash Saini 👋
 
-<!--
-**Prakash-sa/Prakash-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend & Distributed Systems Engineer
 
-Here are some ideas to get you started:
+I build **scalable backend systems, distributed infrastructure, cloud-native platforms, and high-performance applications** with a focus on reliability, performance, observability, and clean system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans **distributed systems, backend engineering, cloud infrastructure, HPC, real-time systems, and data/ML platforms**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+Go · Python · Java · C++
+
+**Backend & Data**
+Kafka · Redis · PostgreSQL · FastAPI · Spring Boot
+
+**Cloud & Infrastructure**
+AWS · Docker · Kubernetes · Linux · GitHub Actions
+
+**Observability**
+Prometheus · Grafana
+
+**High-Performance Computing**
+MPI · Slurm · AWS ParallelCluster
+
+---
+
+## 🧠 Engineering Interests
+
+I enjoy working on problems involving:
+
+`Distributed Systems` · `Database Internals` · `Concurrency` · `Replication` · `Caching` · `Event Streaming` · `Networking` · `Performance Engineering` · `Reliability` · `Cloud Infrastructure`
+
+I particularly like understanding what happens beneath the abstraction — how systems **store data, communicate, scale, fail, recover, and perform under real workloads**.
+
+---
+
+## 📚 Open Source & Learning
+
+I also maintain engineering resources around:
+
+* [System Design](https://github.com/Prakash-sa/system-design-ultimatum)
+* [Low-Level Design](https://github.com/Prakash-sa/low-level-design-ultimatum)
+* [Algorithms & Data Structures](https://github.com/Prakash-sa/Competitive-Programming)
+* [Distributed Systems](https://github.com/Prakash-sa/dragonglass-redis)
+* [Backend Engineering](https://github.com/Prakash-sa/ride-matching-go)
+
+You can explore my [repositories](https://github.com/Prakash-sa?tab=repositories) and pinned projects below for more of my engineering work.
+
+---
+
+## 🎯 Current Focus
+
+Currently exploring and building around:
+
+* Distributed databases and storage engines
+* High-throughput backend infrastructure
+* Cloud-native systems
+* Networking and distributed messaging
+* HPC and parallel computing
+* AI/ML infrastructure
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sainiprakash525/)
+
+---
+
+> **I enjoy understanding how systems behave beneath the abstraction — how they store data, communicate, scale, fail, recover, and perform under real workloads.**
+
