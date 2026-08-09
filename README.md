@@ -2,39 +2,42 @@
 
 ### Backend & Distributed Systems Engineer
 
-I build **scalable backend systems, distributed infrastructure, cloud-native platforms, and high-performance applications**, with a focus on reliability, performance, and clean system design.
+I build **scalable backend systems, distributed infrastructure, cloud-native platforms, and high-performance applications** with a focus on **reliability, performance, observability, and clean system design**.
+
+My interests span **distributed systems, backend engineering, cloud infrastructure, real-time systems, and high-performance computing**.
+
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**  
 Go · Python · Java · C++
 
-**Backend & Data**
+**Backend & Data**  
 Kafka · Redis · PostgreSQL · FastAPI · Spring Boot
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure**  
 AWS · Docker · Kubernetes · Linux · GitHub Actions
 
-**Observability**
+**Observability**  
 Prometheus · Grafana
 
-**High-Performance Computing**
+**High-Performance Computing**  
 MPI · Slurm · AWS ParallelCluster
 
 ---
 
-## 📚 Open Source & Learning
+## 📚 Engineering & Open Source
 
-I also maintain engineering resources around:
+I maintain projects and engineering resources around:
 
-* [System Design](https://github.com/Prakash-sa/system-design-ultimatum)
-* [Low-Level Design](https://github.com/Prakash-sa/low-level-design-ultimatum)
-* [Algorithms & Data Structures](https://github.com/Prakash-sa/Competitive-Programming)
-* [Distributed Systems](https://github.com/Prakash-sa/dragonglass-redis)
-* [Backend Engineering](https://github.com/Prakash-sa/ride-matching-go)
+- [Distributed Systems](https://github.com/Prakash-sa/dragonglass-redis)
+- [Backend & Real-Time Systems](https://github.com/Prakash-sa/ride-matching-go)
+- [System Design](https://github.com/Prakash-sa/system-design-ultimatum)
+- [Low-Level Design](https://github.com/Prakash-sa/low-level-design-ultimatum)
+- [Algorithms & Data Structures](https://github.com/Prakash-sa/Competitive-Programming)
 
-You can explore my [repositories](https://github.com/Prakash-sa?tab=repositories) and pinned projects below for more of my engineering work.
+Explore my [repositories](https://github.com/Prakash-sa?tab=repositories) or check out the pinned projects below for more of my work.
 
 ---
 
