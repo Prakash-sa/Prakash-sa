@@ -2,9 +2,9 @@
 
 ### Backend & Distributed Systems Engineer
 
-I build **scalable backend systems, distributed infrastructure, cloud-native platforms, and high-performance applications** with a focus on **reliability, performance, observability, and clean system design**.
+I build **scalable backend systems, distributed infrastructure, cloud-native platforms, and high-performance applications** with a focus on **reliability, performance, observability, and clean system design** — including the backend infrastructure that AI workloads run on.
 
-My interests span **distributed systems, backend engineering, cloud infrastructure, real-time systems, and high-performance computing**.
+My interests span **distributed systems, backend engineering, cloud infrastructure, AI infrastructure and RAG systems, real-time systems, and high-performance computing**.
 
 ---
 
@@ -14,16 +14,19 @@ My interests span **distributed systems, backend engineering, cloud infrastructu
 Go · Python · Java · C++
 
 **Backend & Data**  
-Kafka · Redis · PostgreSQL · FastAPI · Spring Boot
+Kafka · Redis · PostgreSQL · MongoDB · FastAPI · Spring Boot
+
+**AI & Retrieval**  
+RAG architecture · Pinecone · OpenSearch · AWS Bedrock · SageMaker · Ollama · MCP · embeddings & model routing
 
 **Cloud & Infrastructure**  
-AWS · Docker · Kubernetes · Linux · GitHub Actions
+AWS · Docker · Kubernetes · Terraform · Linux · GitHub Actions
 
 **Observability**  
-Prometheus · Grafana
+Prometheus · Grafana · OpenTelemetry
 
 **High-Performance Computing**  
-MPI · Slurm · AWS ParallelCluster
+MPI · Slurm · AWS ParallelCluster · Qiskit Aer
 
 ---
 
@@ -33,6 +36,7 @@ I maintain projects and engineering resources around:
 
 - [Distributed Systems](https://github.com/Prakash-sa/dragonglass-redis)
 - [Backend & Real-Time Systems](https://github.com/Prakash-sa/ride-matching-go)
+- [AI & RAG Systems](https://github.com/Prakash-sa/Agentic_RAG)
 - [System Design](https://github.com/Prakash-sa/system-design-ultimatum)
 - [Low-Level Design](https://github.com/Prakash-sa/low-level-design-ultimatum)
 - [Algorithms & Data Structures](https://github.com/Prakash-sa/Competitive-Programming)
