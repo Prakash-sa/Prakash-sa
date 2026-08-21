@@ -36,7 +36,7 @@ I maintain projects and engineering resources around:
 
 - [Distributed Systems](https://github.com/Prakash-sa/dragonglass-redis)
 - [Backend & Real-Time Systems](https://github.com/Prakash-sa/ride-matching-go)
-- [AI & RAG Systems](https://github.com/Prakash-sa/Agentic_RAG)
+- [AI & RAG Systems](https://github.com/Prakash-sa/local-rag)
 - [System Design](https://github.com/Prakash-sa/system-design-ultimatum)
 - [Low-Level Design](https://github.com/Prakash-sa/low-level-design-ultimatum)
 - [Algorithms & Data Structures](https://github.com/Prakash-sa/Competitive-Programming)
