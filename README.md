@@ -1,51 +1,57 @@
 # Hi, I'm Prakash Saini 👋
 
-### Backend, Distributed Systems & HPC Engineer
+### HPC & AI Inference Engineer
 
-I build **scalable backend systems, distributed infrastructure, cloud-native platforms, and high-performance computing systems** with a focus on **performance, reliability, scalability, observability, and clean system design**.
+I build **GPU-accelerated, distributed systems for scientific computing and AI inference**: MPI solvers that scale across hundreds of ranks, CUDA and Triton kernels tuned against hardware limits, and LLM and model-serving stacks measured on latency, throughput, and cost.
 
-My work spans **distributed execution, MPI-based parallel computing, HPC workload orchestration, cloud infrastructure, backend platforms, and AI infrastructure** — from services handling distributed workloads to computational systems running large-scale scientific and engineering simulations.
+Currently at **QubitSolve**, engineering a hybrid quantum-classical CFD platform on **AWS ParallelCluster, Slurm, MPI, and NVIDIA GPUs**, plus its inference layer (vLLM, TensorRT, Triton Inference Server). Before that, I built high-availability backend and event-streaming systems at **HPE** and **Nokia**.
 
-I'm particularly interested in the intersection of **distributed systems, high-performance computing, cloud infrastructure, AI infrastructure, and scientific computing**.
+---
+
+## ⚡ Highlights
+
+- **HPC scaling:** cut a lattice Boltzmann CFD timestep from **184 s to 0.16 s (~1,150x)**, with a hierarchical MPI decomposition scaling **145.7x at 243 ranks**
+- **GPU kernels:** custom **CUDA C and Triton kernels at ~480-505 MLUPS on an NVIDIA L40S** (~12x CuPy, 36-38% of peak DRAM bandwidth), profiled with Nsight Compute and Nsight Systems
+- **LLM inference:** benchmarked **vLLM and SGLang** on Qwen3-8B. FP8 KV cache doubled KV capacity for **1.59x throughput** with zero preemptions at 128 concurrent requests, and prefix caching delivered **2.6x** on shared prompts
+- **Model serving:** deployed a PyTorch CFD surrogate on **Triton Inference Server with FP16 TensorRT** (batch-64 engine latency 7.90 → 2.87 ms); rejected INT8 after rollout-error validation
+- **Reliability at load:** held **99.9% availability and sub-200 ms p95** through 10x rollout bursts on an HPE GreenLake control plane
+- **Research:** co-author, *"Toward Quantum Advantage in Computational Fluid Dynamics: A Variational Lattice Boltzmann Approach,"* accepted to **AIAA SciTech 2027**
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**  
-Go · Python · C++
+Python · C · C++ · Go · Bash
 
-**Distributed Systems & Backend**  
-Kafka · Redis · PostgreSQL · MongoDB · FastAPI · REST APIs · concurrent systems
+**HPC & Parallel Computing**  
+MPI · Slurm · AWS ParallelCluster · NCCL · strong scaling · checkpoint/restart · Qiskit Aer · cuQuantum/cuStateVec
 
-**High-Performance Computing**  
-MPI · Slurm · AWS ParallelCluster · distributed-memory computing · parallel workloads · scientific computing · Qiskit Aer
+**GPU & Kernels**  
+CUDA C · Triton kernels · Nsight Compute · Nsight Systems · CuPy · PyTorch
 
-**Cloud & Infrastructure**  
-AWS · Docker · Kubernetes · Terraform · Linux · GitHub Actions
+**AI Inference & Serving**  
+vLLM · SGLang · TensorRT · Triton Inference Server · FP8 quantization · KV-cache management · prefix caching · continuous batching · tensor parallelism
+
+**Distributed Systems & Cloud**  
+Kafka · FastAPI · PostgreSQL · Redis · AWS · Docker · Kubernetes · Terraform · GitHub Actions
 
 **Observability & Performance**  
-Prometheus · Grafana · OpenTelemetry · performance profiling · distributed monitoring
-
-**AI Infrastructure & Retrieval**  
-RAG architecture · Pinecone · OpenSearch · AWS Bedrock · SageMaker · Ollama · MCP · embeddings · model routing
+Prometheus · Grafana · OpenTelemetry · Nsight profiling · benchmarking
 
 ---
 
-## ⚡ Areas I Work On
+## 🔬 Areas I Work On
 
-- **High-Performance Computing** — MPI workloads, distributed execution, workload scheduling, cluster orchestration, and performance scaling
-- **Distributed Systems** — concurrency, fault tolerance, messaging, caching, consistency, and scalable service architectures
-- **Cloud Infrastructure** — AWS-based compute platforms, containerized workloads, automation, and infrastructure-as-code
-- **Backend Engineering** — high-throughput APIs, asynchronous processing, databases, caching, and real-time systems
-- **AI Infrastructure** — RAG systems, inference infrastructure, retrieval pipelines, and backend systems for AI workloads
-- **Observability & Performance** — instrumentation, profiling, metrics, distributed tracing, and system optimization
+- **High-Performance Computing:** MPI decomposition, scaling studies, Slurm workload modeling, and cluster automation on AWS
+- **GPU Performance:** kernel fusion, occupancy and memory-bandwidth tuning, GPU-resident execution, multi-GPU communication
+- **AI Inference:** LLM serving engines, quantization (FP8/FP16/INT8), KV-cache capacity, batching, and latency/throughput trade-offs
+- **Model Serving:** TensorRT engine builds, Triton Inference Server, accuracy gates before deployment
+- **Distributed Systems:** high-availability control planes, Kafka pipelines, SLOs, and incident response
 
 ---
 
 ## 📚 Engineering & Open Source
-
-I maintain projects and engineering resources around:
 
 - [Distributed Systems](https://github.com/Prakash-sa/dragonglass-redis)
 - [Backend & Real-Time Systems](https://github.com/Prakash-sa/ride-matching-go)
@@ -54,7 +60,7 @@ I maintain projects and engineering resources around:
 - [Low-Level Design](https://github.com/Prakash-sa/low-level-design-ultimatum)
 - [Algorithms & Data Structures](https://github.com/Prakash-sa/Competitive-Programming)
 
-Explore my [repositories](https://github.com/Prakash-sa?tab=repositories) or check out the pinned projects below for more of my work.
+Explore my [repositories](https://github.com/Prakash-sa?tab=repositories) or the pinned projects below.
 
 ---
 
